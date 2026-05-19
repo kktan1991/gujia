@@ -1,0 +1,39 @@
+<svg width="980" height="680" viewBox="0 0 980 680" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="scene-title scene-desc">
+  <title id="scene-title">Warm home caregiving scene</title>
+  <desc id="scene-desc">A calm home care room with a bed, family notes, checklist, and gentle support symbols.</desc>
+  <rect width="980" height="680" rx="8" fill="#F7FAFC"/>
+  <rect x="52" y="56" width="876" height="560" rx="8" fill="#FFFFFF" stroke="#D9E3E8" stroke-width="2"/>
+  <path d="M52 178H928" stroke="#E9EEF1" stroke-width="2"/>
+  <circle cx="128" cy="118" r="12" fill="#D9833F"/>
+  <circle cx="168" cy="118" r="12" fill="#6CA989"/>
+  <circle cx="208" cy="118" r="12" fill="#25445C"/>
+  <rect x="110" y="263" width="424" height="112" rx="8" fill="#FFF8F2" stroke="#EBCDB6" stroke-width="2"/>
+  <rect x="143" y="309" width="330" height="66" rx="8" fill="#EAF3F5"/>
+  <rect x="124" y="286" width="44" height="89" rx="8" fill="#25445C"/>
+  <rect x="142" y="245" width="52" height="78" rx="8" fill="#FFFFFF" stroke="#D5E2E8" stroke-width="2"/>
+  <path d="M170 247V286" stroke="#D5E2E8" stroke-width="2"/>
+  <path d="M184 264H142" stroke="#D5E2E8" stroke-width="2"/>
+  <circle cx="646" cy="278" r="45" fill="#FFE8D6"/>
+  <path d="M624 286C633 303 660 303 668 286" stroke="#4B2118" stroke-width="5" stroke-linecap="round"/>
+  <path d="M615 259C625 237 663 236 676 258" stroke="#4B2118" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="628" cy="272" r="5" fill="#4B2118"/>
+  <circle cx="664" cy="272" r="5" fill="#4B2118"/>
+  <rect x="584" y="325" width="128" height="92" rx="8" fill="#6CA989"/>
+  <path d="M611 416C610 375 686 375 685 416" stroke="#25445C" stroke-width="8" stroke-linecap="round"/>
+  <rect x="706" y="248" width="126" height="168" rx="8" fill="#F9FBFC" stroke="#D9E3E8" stroke-width="2"/>
+  <path d="M732 291H805" stroke="#25445C" stroke-width="5" stroke-linecap="round"/>
+  <path d="M732 328H805" stroke="#D9833F" stroke-width="5" stroke-linecap="round"/>
+  <path d="M732 365H789" stroke="#6CA989" stroke-width="5" stroke-linecap="round"/>
+  <path d="M716 291L724 299L737 278" stroke="#6CA989" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M716 328L724 336L737 315" stroke="#6CA989" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M716 365L724 373L737 352" stroke="#6CA989" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="135" y="444" width="180" height="86" rx="8" fill="#FFFFFF" stroke="#D9E3E8" stroke-width="2"/>
+  <rect x="348" y="444" width="180" height="86" rx="8" fill="#FFFFFF" stroke="#D9E3E8" stroke-width="2"/>
+  <rect x="562" y="444" width="180" height="86" rx="8" fill="#FFFFFF" stroke="#D9E3E8" stroke-width="2"/>
+  <path d="M166 484H284" stroke="#D9833F" stroke-width="5" stroke-linecap="round"/>
+  <path d="M379 484H497" stroke="#6CA989" stroke-width="5" stroke-linecap="round"/>
+  <path d="M593 484H711" stroke="#25445C" stroke-width="5" stroke-linecap="round"/>
+  <path d="M818 459C803 446 796 437 796 426C796 417 803 410 812 410C819 410 824 414 827 419C830 414 836 410 843 410C852 410 858 417 858 426C858 437 851 447 827 459H818Z" fill="#D9833F"/>
+  <path d="M820 460C797 478 782 496 780 526" stroke="#D9833F" stroke-width="4" stroke-linecap="round"/>
+  <path d="M834 461C862 478 877 498 880 526" stroke="#6CA989" stroke-width="4" stroke-linecap="round"/>
+</svg>
